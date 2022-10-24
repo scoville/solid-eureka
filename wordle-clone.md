@@ -1,6 +1,6 @@
 # Wordle Clone
 
-Quick example of a [Wordle](https://www.nytimes.com/games/wordle/index.html) clone for pair-programming exercises.
+Build a quick [Wordle](https://www.nytimes.com/games/wordle/index.html) clone for your programming exercise!
 
 ## Word List
 
@@ -22,9 +22,17 @@ We don't expect you to necessarily finish the task.
 - Repeat letters in the guess should consider repeat letters in the answer
   - Every letter over the number of repeats should show as not in the word
   - For each repeat letter in the answer show appropriate guess information
-- How you determine this and what the output should be is up to you!
+- How you determine this, and what the output should look like, is up to you!
 
 ### Example I/O
+
+The outputs shown here are examples and your program need not necessarily produce the exact same output format, as long as it can be read and understood.
+
+For example:
+- 🟩 = Letter is in the word and in the correct place.
+- 🟨 = Letter is in the word but in the wrong place.
+- ⬛ = Letter is not in the word.
+
 | Guess | Answer | Output | Text      |
 |-------|--------|--------|-----------|
 | spice | spice  | 🟩🟩🟩🟩🟩  | G,G,G,G,G |
