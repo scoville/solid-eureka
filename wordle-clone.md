@@ -6,15 +6,11 @@ Quick example of a [Wordle](https://www.nytimes.com/games/wordle/index.html) clo
 
 For a cleaned list of valid words, check out [this Gist](https://gist.github.com/benmurden/3774e011a3739856b14d079add764e75).
 
-## About this task
-
-- Should ideally take about 40 minutes to complete in a pair-programming scenario
-  - The current Node.js example took about 20 minutes to do
-- Could expand this repo to include examples in other languages
-
 ## Task requirements
 
 Write a Wordle clone in any language you like. Don't worry too much about presentation, just take some input and return some output. You could expand it to be a CLI application, or even a full web page if you want to get fancy.
+
+We don't expect you to necessarily finish the task.
 
 ### Wordle rules
 
